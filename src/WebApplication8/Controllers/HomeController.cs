@@ -10,6 +10,8 @@ namespace WebApplication8.Controllers
     {
         public IActionResult Index()
         {
+            var scott = "hello";
+            
             return View();
         }
 
